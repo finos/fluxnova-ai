@@ -1,22 +1,17 @@
 ---
-name: "\U0001F91D {project name} Meeting Minutes"
-about: To track {project name} meeting agenda and attendance
-title: DD MMM YYYY - {project name} Meeting Minutes
-labels: meeting
-assignees: 
+name: "\U0001F91D Fluxnova AI Working Group Meeting Minutes"
+about: To track Fluxnova AI Working Group meeting agenda and attendance
+title: DD MMM YYYY - Fluxnova AI Working Group Meeting Minutes
+type: Meeting
 
 ---
 
 ## Date
-YYYYMMDD - time
+YYYYMM Tuesday - 10am EST  
 
 ## Meeting Details
-- Meeting link :
-- Register for future meetings:
-
-## Untracked attendees
-- Fullname, Affiliation, (optional) GitHub username
-- ...
+- Meeting link : https://zoom-lfx.platform.linuxfoundation.org/meeting/94126730422?password=4ffa7ff4-bc6f-4913-8f64-db91d36c5048
+- Register for future meetings: https://zoom-lfx.platform.linuxfoundation.org/meeting/94126730422?password=4ffa7ff4-bc6f-4913-8f64-db91d36c5048&invite=true
 
 ## Meeting notices
 - FINOS **Project leads** are responsible for observing the FINOS guidelines for [running project meetings](https://community.finos.org/docs/governance/meeting-procedures/). Project maintainers can find additional resources in the [FINOS Maintainers Cheatsheet](https://community.finos.org/docs/finos-maintainers-cheatsheet).
@@ -36,6 +31,9 @@ YYYYMMDD - time
 - [ ] Agenda item 2
 - [ ] ...
 - [ ] AOB, Q&A & Adjourn (5mins)
+
+## Minutes
+- ...
 
 ## Decisions Made
 - [ ] Decision 1
