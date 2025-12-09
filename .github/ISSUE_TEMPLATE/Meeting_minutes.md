@@ -10,8 +10,8 @@ type: Meeting
 YYYYMM Tuesday - 10am EST  
 
 ## Meeting Details
-- Meeting link : https://zoom-lfx.platform.linuxfoundation.org/meeting/94126730422?password=4ffa7ff4-bc6f-4913-8f64-db91d36c5048
-- Register for future meetings: https://zoom-lfx.platform.linuxfoundation.org/meeting/94126730422?password=4ffa7ff4-bc6f-4913-8f64-db91d36c5048&invite=true
+- Meeting link : https://zoom-lfx.platform.linuxfoundation.org/meeting/94324343329?password=4fd47917-b89f-4c7c-8925-a8a4e5b54ab1
+- Register for future meetings: https://zoom-lfx.platform.linuxfoundation.org/meeting/94324343329?password=4fd47917-b89f-4c7c-8925-a8a4e5b54ab1&invite=true
 
 ## Meeting notices
 - FINOS **Project leads** are responsible for observing the FINOS guidelines for [running project meetings](https://community.finos.org/docs/governance/meeting-procedures/). Project maintainers can find additional resources in the [FINOS Maintainers Cheatsheet](https://community.finos.org/docs/finos-maintainers-cheatsheet).
