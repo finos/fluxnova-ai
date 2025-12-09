@@ -2,6 +2,8 @@
 
 # Fluxnova AI
 
+Fluxnova AI working group
+
 ## Contributing
 For any questions, bugs or feature requests please open an [issue](https://github.com/finos/{project slug}/issues)
 For anything else please send an email to {project mailing list}.
