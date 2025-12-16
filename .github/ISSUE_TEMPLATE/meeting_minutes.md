@@ -7,7 +7,7 @@ type: Meeting
 ---
 
 ## Date
-DDMMMYYYY - 10am EST  
+DDMMMYYYY - 11am EST  
 
 ## Meeting Details
 - Meeting link : https://zoom-lfx.platform.linuxfoundation.org/meeting/94324343329?password=4fd47917-b89f-4c7c-8925-a8a4e5b54ab1
